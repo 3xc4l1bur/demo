@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "PT. Anilo Adikarya Sentosa", jurusan:"RPL" },
-    { "id": 2, "title": "PT. Seven Sky", jurusan:"AKL" },
-    { "id": 3, "title": "PT. Intek Solusi Media", jurusan:"OTP" }
+    { "id": 1, "title": "PT. Anilo Adikarya Sentosa" },
+    { "id": 2, "title": "PT. Seven Sky" },
+    { "id": 3, "title": "PT. Intek Solusi Media" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
